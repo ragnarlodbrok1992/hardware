@@ -1,0 +1,8 @@
+# Verilator synthesis and simulation artifacts
+# This stuff is from testbench (check code)
+dump.vcd
+obj_dir/
+
+# My stuff
+tags
+
